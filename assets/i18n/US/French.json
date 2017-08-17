@@ -365,7 +365,7 @@
     "wait_error":"Quelque chose s'est mal passé ... Veuillez vérifier votre connexion Internet.",
     "Pname_error":"Entrez le nom du projet",
     "close":"Fermer",
-    "report_wait1":"Veuillez patienter pendant la création du projet",
+    "report_wait1":"Veuillez patienter ... tout en sauvegardant les détails du projet",
     "saveAsProj":"Veuillez modifier le nom du projet",
     "changePname":"Nom du Projet"
   },
@@ -600,7 +600,7 @@
 
   },
   "success_msg":{
-    "success":"Projet créé avec succès"
+    "success":"Le projet a été enregistré avec succès"
   },
   "buttonDropDown":{
     "output":"Résultat",

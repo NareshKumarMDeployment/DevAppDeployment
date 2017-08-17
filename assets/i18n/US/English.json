@@ -365,7 +365,7 @@
     "wait_error":"Something went wrong... Please check your internet connecton.",
     "Pname_error":"Please enter the Project Name",
     "close":"Close",
-    "report_wait1":"Please wait while creating the project",
+    "report_wait1":"Please wait... while saving project details",
     "saveAsProj":"Please change the project name",
     "changePname":"Project Name"
   },
@@ -598,7 +598,7 @@
     "pic_change":"Change picture"
   },
   "success_msg":{
-    "success":"Project created successfully"
+    "success":"Project saved successfully"
   },
   "buttonDropDown":{
     "output":"Output",
