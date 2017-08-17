@@ -86,7 +86,8 @@
     "name_valid":"Entrez le nom du projet",
     "org_name_label":"Fournissez un nom pour votre projet",
     "error_msg":"L'utilisateur a été supprimé avec succès",
-    "trigger":"Cliquez ici pour générer le rapport de simulation"
+    "trigger":"Cliquez ici pour générer le rapport de simulation",
+    "rowToolTip":"Cliquez pour éditer le projet"
   },
   "tree_view": {
     "title": "de base",
