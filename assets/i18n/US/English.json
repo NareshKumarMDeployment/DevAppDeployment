@@ -87,7 +87,8 @@
     "org_name_label":"Provide a name for your project",
     "error_msg":"User Deleted Successfully",
     "trigger":"Click here to generate the simulation report",
-    "rowToolTip":"Double click to edit the project"
+    "rowToolTip":"Double click to edit the project",
+    "delete_tooltip":"Delete project"
   },
   "tree_view": {
     "title": "basic",
@@ -380,8 +381,8 @@
     "delprojsubtitle":"This user will be removed from the list.",
     "deldeletetitle":"The user is removed",
     "email_error":"Alternative email should not be equal to primary email",
-    "click":"Double click to edit"
-
+    "click":"Double click to edit",
+    "delete_tooltip":"Delete user"
   },
   "add_Users":{
     "header":"Add New User",

@@ -87,7 +87,8 @@
     "org_name_label":"Fournissez un nom pour votre projet",
     "error_msg":"L'utilisateur a été supprimé avec succès",
     "trigger":"Cliquez ici pour générer le rapport de simulation",
-    "rowToolTip":"Double-cliquez pour modifier le projet"
+    "rowToolTip":"Double-cliquez pour modifier le projet",
+    "delete_tooltip":"Supprimer le projet"
   },
   "tree_view": {
     "title": "de base",
@@ -380,7 +381,8 @@
     "delprojsubtitle":"Cet utilisateur sera supprimé de la liste.",
     "deldeletetitle":"L'utilisateur est supprimé",
     "email_error":"Le courrier électronique alternatif ne devrait pas être égal au courrier électronique principal",
-    "click":"Double-cliquez pour modifier"
+    "click":"Double-cliquez pour modifier",
+    "delete_tooltip":"Supprimer l'utilisateur"
   },
   "add_Users":{
     "header":"Ajouter un nouvel utilisateur",
