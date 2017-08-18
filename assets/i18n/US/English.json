@@ -87,7 +87,7 @@
     "org_name_label":"Provide a name for your project",
     "error_msg":"User Deleted Successfully",
     "trigger":"Click here to generate the simulation report",
-    "rowToolTip":"Click to edit the project"
+    "rowToolTip":"Double click to edit the project"
   },
   "tree_view": {
     "title": "basic",
