@@ -298,7 +298,7 @@
     "shading_tooltip":"La valeur doit être entre [0 et 1]",
     "visible_tooltip":"La valeur doit être entre [0 et 1]",
     "construction_tooltip":"Créer / Sélectionner un type de construction",
-    "construcname_tooltip":"Provide a name for the construction",
+    "construcname_tooltip":"Fournir un nom de construction",
     "construspecific_tooltip":"Sélectionnez un type de méthode de spécification",
     "construroughness_tooltip":"La valeur de rugosité de surface doit être comprise entre 1 et 6",
     "construexterior_tooltip":"La valeur absorbante doit être comprise entre 0,0000 et 1,0000",    
@@ -388,7 +388,8 @@
     "create":"Créer",
     "user":"Utilisateur",
     "admin":"Admin",
-    "submit":"Soumettre"
+    "submit":"Soumettre",
+    "edit":"Editer le profil"
   },
   "page_top": {
     "profile": "Profil",
@@ -597,8 +598,8 @@
     "address":"Adresse",
     "country":"Pays",
     "company":"Compagnie",
-    "pic_change":"Changer l'image"
-
+    "pic_change":"Changer l'image",
+    "edit":"Modifier"
   },
   "success_msg":{
     "success":"Le projet a été enregistré avec succès"

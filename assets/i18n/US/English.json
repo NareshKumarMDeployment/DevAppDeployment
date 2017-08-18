@@ -298,7 +298,7 @@
     "shading_tooltip":"Value should be between[0 to 1]",
     "visible_tooltip":"Value should be between[0 to 1]",
     "construction_tooltip":"Create/Select any construction type ",
-    "construcname_tooltip":"Provide a name for the construction",
+    "construcname_tooltip":"Provide a construction name",
     "construspecific_tooltip":"Select a specification method type",
     "construroughness_tooltip":"Surface roughness value should be between 1 to 6",
     "construexterior_tooltip":"Absorbent value should be between 0.0000 to 1.0000",
@@ -389,7 +389,8 @@
     "create":"Create",
     "user":"User",
     "admin":"Admin",
-    "submit":"Submit"
+    "submit":"Submit",
+    "edit":"Edit Profile"
   },
   "page_top": {
     "profile": "Profile",
@@ -529,7 +530,7 @@
     "thickness":"Thickness",
     "conductivity":"Conductivity",
     "density":"Density",
-    "specific_heat":"specific heat",
+    "specific_heat":"Specific heat",
     "resistance":"Resistance"
   },
   "worktype":{
@@ -596,7 +597,8 @@
     "address":"Address",
     "country":"Country",
     "company":"Company",
-    "pic_change":"Change picture"
+    "pic_change":"Change picture",
+    "edit":"Edit"
   },
   "success_msg":{
     "success":"Project saved successfully"
