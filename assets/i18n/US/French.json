@@ -150,7 +150,9 @@
     "building": "Bâtiment",
     "building_tunis": "Adresse",
     "private_offices": "Bureaux privés",
-    "tunis": "TUNIS"
+    "tunis": "TUNIS",
+    "cur_password":"Mot de passe actuel",
+    "new_password":"Nouveau mot de passe"
   },
   "landing": {
     "title1": "CLIP-Tunisie",
@@ -173,7 +175,11 @@
     "email": "É-mail secondaire *",
     "password": "Mot de passe *",
     "confirm_password": "Confirmez le mot de passe *",
-    "change_password": "réinitialiser le mot de passe"
+    "change_password": "réinitialiser le mot de passe",
+    "currentpwd":"Mot de passe actuel *",
+    "header":"Changer le mot de passe",
+    "new_password":"Nouveau mot de passe *",
+    "confirmnew_password":"Confirmer le mot de passe *"
   },
   "view_project": {
     "title": "Projets",
