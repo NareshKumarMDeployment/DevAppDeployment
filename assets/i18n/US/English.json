@@ -88,7 +88,8 @@
     "error_msg":"User Deleted Successfully",
     "trigger":"Click here to generate the simulation report",
     "rowToolTip":"Double click to edit the project",
-    "delete_tooltip":"Delete project"
+    "delete_tooltip":"Delete project",
+    "report_tooltip":"Click to view the project report"
   },
   "tree_view": {
     "title": "basic",
@@ -131,7 +132,8 @@
     "address": "Address",
     "city": "City",
     "country": "Country",
-    "password_mismatcherror":"Passwords don't match"
+    "password_mismatcherror":"Passwords don't match",
+    "success":"User updated successfully"
   },
   "placeHolders": {
     "email": "Email",
@@ -305,7 +307,8 @@
     "construexterior_tooltip":"Absorbent value should be between 0.0000 to 1.0000",
     "construnewlayer_tooltip":"Layer name and construction name should be different",
     "construlayername_tooltip":"Construction layer name",
-    "construvalue_tooltip":"U value calculated as per the inputs"
+    "construvalue_tooltip":"U value calculated as per the inputs",
+    "construglass_tooltip":"Specify the conductance of glass value"
   }, 
   "HVACSystem_page": {
     "header": "HVAC System",
@@ -591,10 +594,10 @@
   },
   "userprofile":{
     "geninfo":"General Information",
-    "job_title":"Job title",
+    "job_title":"Job Title",
     "continfo":"Contact Information",
     "email":"Email",
-    "altemail":"Alternative Email",
+    "altemail":"Alternate Email",
     "address":"Address",
     "country":"Country",
     "company":"Company",

@@ -88,7 +88,8 @@
     "error_msg":"L'utilisateur a été supprimé avec succès",
     "trigger":"Cliquez ici pour générer le rapport de simulation",
     "rowToolTip":"Double-cliquez pour modifier le projet",
-    "delete_tooltip":"Supprimer le projet"
+    "delete_tooltip":"Supprimer le projet",
+    "report_tooltip":"Cliquez pour afficher le rapport de projet"
   },
   "tree_view": {
     "title": "de base",
@@ -131,7 +132,8 @@
     "address": "Adresse",
     "city": "Ville",
     "country": "Pays",
-    "password_mismatcherror":"Les mots de passe ne correspondent pas"
+    "password_mismatcherror":"Les mots de passe ne correspondent pas",
+    "success":"Mise à jour de l'utilisateur avec succès"
   },
   "placeHolders": {
     "email": "É-mail ",
@@ -305,7 +307,8 @@
     "construexterior_tooltip":"La valeur absorbante doit être comprise entre 0,0000 et 1,0000",    
     "construnewlayer_tooltip":"Le nom de la couche et le nom de la construction doivent être différents",
     "construlayername_tooltip":"Nom de la couche de construction",
-    "construvalue_tooltip":"U valeur calculée selon les entrées"
+    "construvalue_tooltip":"U valeur calculée selon les entrées",
+    "construglass_tooltip":"Spécifiez la conductance de la valeur du verre"
   },
   "HVACSystem_page": {
     "header": "Système CVCA",
@@ -592,11 +595,11 @@
     "co2emmission":"CO2 Emis par Année"
   },
   "userprofile":{
-    "geninfo":"Informations générales",
+    "geninfo":"Informations Générales",
     "job_title":"Métier",
     "continfo":"Informations de contact",
     "email":"Email",
-    "altemail":"Email alternatif",
+    "altemail":"E-mail Secondaire",
     "address":"Adresse",
     "country":"Pays",
     "company":"Compagnie",
