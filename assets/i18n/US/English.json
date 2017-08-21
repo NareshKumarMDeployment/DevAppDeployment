@@ -465,6 +465,18 @@
       "Produit d'Etanchéité Caoutchouc":"Produit d'Etanchéité Caoutchouc",
       "Moquette, Tabis":"Moquette, Tabis"
     },
+    "ConstructionLayers": {
+      "EWall Cons Layers-NoInsu" : "EWall Cons Layers-NoInsu",
+      "EWall Cons Layers-Outside-2cm" : "EWall Cons Layers-Outside-2cm",
+      "EWall Cons Layers-Outside-4cm" : "EWall Cons Layers-Outside-4cm",
+      "EWall Cons Layers-Outside-6cm" : "EWall Cons Layers-Outside-6cm",
+      "EWall Cons Layers-Middle-2cm" : "EWall Cons Layers-Middle-2cm",
+      "EWall Cons Layers-Middle-4cm" : "EWall Cons Layers-Middle-4cm",
+      "EWall Cons Layers-Middle-6cm" : "EWall Cons Layers-Middle-6cm",
+      "EWall Cons Layers-Inside-2cm" : "EWall Cons Layers-Inside-2cm",
+      "EWall Cons Layers-Inside-4cm" : "EWall Cons Layers-Inside-4cm",
+      "EWall Cons Layers-Inside-6cm" : "EWall Cons Layers-Inside-6cm"
+    },
     "RoofTypes": {
       "Roof Cons-NoInsu": "Roof Cons-NoInsu",
       "Roof Cons-Outside-2cm": "Roof Cons-Outside-2cm",
@@ -477,6 +489,18 @@
       "Roof Cons-Middle-4cm": "Roof Cons-Middle-4cm",
       "Roof Cons-Middle-6cm" : "Roof Cons-Middle-6cm",
       "create":"Create"
+    },
+    "RoofLayers":{
+      "Roof Cons Layers-NoInsu" : "Roof Cons Layers-NoInsu",
+      "Roof Cons Layers-Outside-2cm" : "Roof Cons Layers-Outside-2cm",
+      "Roof Cons Layers-Outside-4cm" : "Roof Cons Layers-Outside-4cm",
+      "Roof Cons Layers-Outside-6cm" : "Roof Cons Layers-Outside-6cm",
+      "Roof Cons Layers-Inside-2cm" : "Roof Cons Layers-Inside-2cm",
+      "Roof Cons Layers-Inside-4cm" : "Roof Cons Layers-Inside-4cm",
+      "Roof Cons Layers-Inside-6cm" : "Roof Cons Layers-Inside-6cm",
+      "Roof Cons Layers-Middle-2cm" : "Roof Cons Layers-Middle-2cm",
+      "Roof Cons Layers-Middle-4cm" : "Roof Cons Layers-Middle-4cm",
+      "Roof Cons Layers-Middle-6cm" : "Roof Cons Layers-Middle-6cm"
     },
     "FloorContactCondition": {
       "ground": "ground",

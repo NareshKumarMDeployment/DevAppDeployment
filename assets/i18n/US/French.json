@@ -466,6 +466,18 @@
       "Produit d'Etanchéité Caoutchouc":"Produit d'Etanchéité Caoutchouc",
       "Moquette, Tabis":"Moquette, Tabis"
     },
+    "ConstructionLayers": {
+      "EWall Cons Layers-NoInsu" : "Mur Cons-Marcotte-Pas d’Isolation",
+      "EWall Cons Layers-Outside-2cm" : "Mur Cons-Marcotte-Isolation-Extérieure-2cm",
+      "EWall Cons Layers-Outside-4cm" : "Mur Cons-Marcotte-Isolation-Extérieure-4cm",
+      "EWall Cons Layers-Outside-6cm" : "Mur Cons-Marcotte-Isolation-Extérieure-6cm",
+      "EWall Cons Layers-Middle-2cm" : "Mur Cons-Marcotte-Isolation-Intérieure-2cm",
+      "EWall Cons Layers-Middle-4cm" : "Mur Cons-Marcotte-Isolation-Intérieure-4cm",
+      "EWall Cons Layers-Middle-6cm" : "Mur Cons-Marcotte-Isolation-Intérieure-6cm",
+      "EWall Cons Layers-Inside-2cm" : "Mur Cons-Marcotte-Isolation-Milieu-2cm",
+      "EWall Cons Layers-Inside-4cm" : "Mur Cons-Marcotte-Isolation-Milieu-4cm",
+      "EWall Cons Layers-Inside-6cm" : "Mur Cons-Marcotte-Isolation-Milieu-6cm"
+    },
     "RoofTypes": {
       "Roof Cons-NoInsu": "Toit Pas d’Isolation",
       "Roof Cons-Outside-2cm": "Toit Isolation-Extérieure-2cm",
@@ -478,6 +490,18 @@
       "Roof Cons-Middle-4cm": "Toit Isolation-Milieu-4cm",
       "Roof Cons-Middle-6cm" : "Toit Isolation-Milieu-6cm",
       "create":"Créer"
+    },
+    "RoofLayers":{
+      "Roof Cons Layers-NoInsu" : "Toit Cons-Marcotte-Pas d’Isolation",
+      "Roof Cons Layers-Outside-2cm" : "Toit Cons-Marcotte-Isolation-Milieu-2cm",
+      "Roof Cons Layers-Outside-4cm" : "Toit Cons-Marcotte-Isolation-Milieu-4cm",
+      "Roof Cons Layers-Outside-6cm" : "Toit Cons-Marcotte-Isolation-Milieu-6cm",
+      "Roof Cons Layers-Inside-2cm" : "Toit Cons-Marcotte-Isolation-Intérieure-2cm",
+      "Roof Cons Layers-Inside-4cm" : "Toit Cons-Marcotte-Isolation-Intérieure-4cm",
+      "Roof Cons Layers-Inside-6cm" : "Toit Cons-Marcotte-Isolation-Intérieure-6cm",
+      "Roof Cons Layers-Middle-2cm" : "Toit Cons-Marcotte-Isolation-Extérieure-2cm",
+      "Roof Cons Layers-Middle-4cm" : "Toit Cons-Marcotte-Isolation-Extérieure-4cm",
+      "Roof Cons Layers-Middle-6cm" : "Toit Cons-Marcotte-Isolation-Extérieure-6cm"
     },
     "FloorContactCondition": {
       "ground": "Sol",
