@@ -133,7 +133,8 @@
     "city": "City",
     "country": "Country",
     "password_mismatcherror":"Passwords don't match",
-    "success":"User updated successfully"
+    "success":"User updated successfully",
+    "reg_success":"User registered successfully"
   },
   "placeHolders": {
     "email": "Email",
@@ -314,7 +315,7 @@
     "construnewlayer_tooltip":"Layer name and construction name should be different",
     "construlayername_tooltip":"Construction layer name",
     "construvalue_tooltip":"U value calculated as per the inputs",
-    "construglass_tooltip":"Specify the conductance of glass value"
+    "construglass_tooltip":"Value should be between[1 to 10]"
   }, 
   "HVACSystem_page": {
     "header": "HVAC System",

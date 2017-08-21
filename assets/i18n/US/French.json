@@ -133,7 +133,8 @@
     "city": "Ville",
     "country": "Pays",
     "password_mismatcherror":"Les mots de passe ne correspondent pas",
-    "success":"Mise à jour de l'utilisateur avec succès"
+    "success":"Mise à jour de l'utilisateur avec succès",
+    "reg_success":"L'utilisateur s'est enregistré avec succès"
   },
   "placeHolders": {
     "email": "É-mail ",
@@ -310,11 +311,11 @@
     "construcname_tooltip":"Fournir un nom de construction",
     "construspecific_tooltip":"Sélectionnez un type de méthode de spécification",
     "construroughness_tooltip":"La valeur de rugosité de surface doit être comprise entre 1 et 6",
-    "construexterior_tooltip":"La valeur absorbante doit être comprise entre 0,0000 et 1,0000",    
+    "construexterior_tooltip":"La valeur absorbante doit être comprise entre 0.0000 et 1.0000",    
     "construnewlayer_tooltip":"Le nom de la couche et le nom de la construction doivent être différents",
     "construlayername_tooltip":"Nom de la couche de construction",
     "construvalue_tooltip":"U valeur calculée selon les entrées",
-    "construglass_tooltip":"Spécifiez la conductance de la valeur du verre"
+    "construglass_tooltip":"La valeur doit être entre [1 et 10]"
   },
   "HVACSystem_page": {
     "header": "Système CVCA",
