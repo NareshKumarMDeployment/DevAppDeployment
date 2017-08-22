@@ -521,6 +521,30 @@
       "No": "No",
       "Dish": "Dish",
       "Dome": "Dome"
+    },
+    "ConstructionLayers": {
+      "EWall Cons Layers-NoInsu":"EWall Cons Layers-NoInsu",
+      "EWall Cons Layers-Outside-2cm":"EWall Cons Layers-Outside-2cm",
+      "EWall Cons Layers-Outside-4cm":"EWall Cons Layers-Outside-4cm",
+      "EWall Cons Layers-Outside-6cm":"EWall Cons Layers-Outside-6cm",
+      "EWall Cons Layers-Middle-2cm":"EWall Cons Layers-Middle-2cm",
+      "EWall Cons Layers-Middle-4cm":"EWall Cons Layers-Middle-4cm",
+      "EWall Cons Layers-Middle-6cm":"EWall Cons Layers-Middle-6cm",
+      "EWall Cons Layers-Inside-2cm":"EWall Cons Layers-Inside-2cm",
+      "EWall Cons Layers-Inside-4cm":"EWall Cons Layers-Inside-4cm",
+      "EWall Cons Layers-Inside-6cm":"EWall Cons Layers-Inside-6cm"
+    },
+    "RoofLayers": {      
+      "Roof Cons Layers-NoInsu":"Roof Cons Layers-NoInsu",
+      "Roof Cons Layers-Outside-2cm":"Roof Cons Layers-Outside-2cm",
+      "Roof Cons Layers-Outside-4cm":"Roof Cons Layers-Outside-4cm",
+      "Roof Cons Layers-Outside-6cm":"Roof Cons Layers-Outside-6cm",
+      "Roof Cons Layers-Inside-2cm":"Roof Cons Layers-Inside-2cm",
+      "Roof Cons Layers-Inside-4cm":"Roof Cons Layers-Inside-4cm",
+      "Roof Cons Layers-Inside-6cm":"Roof Cons Layers-Inside-6cm",
+      "Roof Cons Layers-Middle-2cm":"Roof Cons Layers-Middle-2cm",
+      "Roof Cons Layers-Middle-4cm":"Roof Cons Layers-Middle-4cm",
+      "Roof Cons Layers-Middle-6cm":"Roof Cons Layers-Middle-6cm"
     }    
   },
   "space": {
