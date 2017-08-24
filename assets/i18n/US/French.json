@@ -315,7 +315,13 @@
     "construnewlayer_tooltip":"Le nom de la couche et le nom de la construction doivent être différents",
     "construlayername_tooltip":"Nom de la couche de construction",
     "construvalue_tooltip":"U valeur calculée selon les entrées",
-    "construglass_tooltip":"La valeur doit être entre [1 et 10]"
+    "construglass_tooltip":"La valeur doit être entre [1 et 10]",
+    "specificheat_tooltip":"Spécifiez la chaleur spécifique",
+    "density_tooltip":"Préciser la densité",
+    "conductive_tooltip":"Spécifier la conductivité",
+    "thickness_tooltip":"Précisez l'épaisseur",
+    "worktype_tooltip":"Choisissez un type de travail",
+    "proname_tooltip":"Entrez le nom du produit"
   },
   "HVACSystem_page": {
     "header": "Système CVCA",

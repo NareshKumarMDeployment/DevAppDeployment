@@ -315,7 +315,13 @@
     "construnewlayer_tooltip":"Layer name and construction name should be different",
     "construlayername_tooltip":"Construction layer name",
     "construvalue_tooltip":"U value calculated as per the inputs",
-    "construglass_tooltip":"Value should be between[1 to 10]"
+    "construglass_tooltip":"Value should be between[1 to 10]",
+    "specificheat_tooltip":"Specify spcific heat",
+    "density_tooltip":"Specify density",
+    "conductive_tooltip":"Specify conductivity",
+    "thickness_tooltip":"Specify the thickness",
+    "worktype_tooltip":"Select a type of work",
+    "proname_tooltip":"Enter the product name"
   }, 
   "HVACSystem_page": {
     "header": "HVAC System",
