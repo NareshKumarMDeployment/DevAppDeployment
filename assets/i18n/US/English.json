@@ -321,7 +321,8 @@
     "conductive_tooltip":"Specify conductivity",
     "thickness_tooltip":"Specify the thickness",
     "worktype_tooltip":"Select a type of work",
-    "proname_tooltip":"Enter the product name"
+    "proname_tooltip":"Enter the product name",
+    "construname_tooltip":"Provide the glass name"
   }, 
   "HVACSystem_page": {
     "header": "HVAC System",
@@ -375,7 +376,7 @@
   "newproject": {
     "savencont": "Save & Continue",
     "save_as": "Save As",
-    "submit": "Submit",
+    "submit": "Simulate",
     "clear": "Clear",
     "save":"Save",
     "report_error":"Simulation report could not be generated. Please verify your input.",
