@@ -323,7 +323,8 @@
     "thickness_tooltip":"Specify the thickness",
     "worktype_tooltip":"Select a type of work",
     "proname_tooltip":"Enter the product name",
-    "construname_tooltip":"Provide the glass name"
+    "construname_tooltip":"Provide the glass name",
+    "glassUvalue":"U-value"
   }, 
   "HVACSystem_page": {
     "header": "HVAC System",

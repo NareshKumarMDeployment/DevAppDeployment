@@ -323,7 +323,8 @@
     "thickness_tooltip":"Précisez l'épaisseur",
     "worktype_tooltip":"Choisissez un type de travail",
     "proname_tooltip":"Entrez le nom du produit",
-    "construname_tooltip":"Fournir le nom du verre"
+    "construname_tooltip":"Fournir le nom du verre",
+    "glassUvalue":"Valeur U"
   },
   "HVACSystem_page": {
     "header": "Système CVCA",
