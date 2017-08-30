@@ -217,6 +217,7 @@
     "packaged_area": "Superficie Conditionnée",
     "form_of_building": "Forme du Bâtiment",
     "orientation": "I'orientation du bâtiment",
+    "building_height":"Hauteur du bâtiment",
     "floor_height": "Hauteur de I'Etage",
     "dimensions": "Dimensions",
     "area_by_floor": "Surface au Sol",

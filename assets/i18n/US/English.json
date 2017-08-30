@@ -217,6 +217,7 @@
     "packaged_area": "Air-conditioned area",
     "form_of_building": "Building Shape",
     "orientation": "Building orientation",
+    "building_height":"Height of the building",
     "floor_height": "Floor-to-Floor Height",
     "dimensions": "Dimensions",
     "area_by_floor": "Floor area",
